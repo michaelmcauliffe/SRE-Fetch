@@ -6,8 +6,10 @@ This program is designed to call Fetch endpoints in a given YAML file and show t
 ## Installation
 1. Download the program file.
 2. Navigate to the project directory: `cd /your-folder-path`
-3. I wrote this program in Python so install the latest version of Python.
+3. Install the latest version of Python. 
 4. Install dependencies: `npm install`
+5. Install PyYAML(if necessary): `pip install requests PyYAML`
+6. Update pip(if necessary): `python -m pip install --upgrade pip`
 
 ## Usage
 1. Run the program from a Command prompt: `python EndpointsMonitor.py`
