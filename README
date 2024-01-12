@@ -1,0 +1,17 @@
+# Fetch Endpoints Monitor
+
+## Description
+This program is designed to call Fetch endpoints in a given YAML file and show the availability percentage of those endpoints. 
+
+## Installation
+1. Download the program file.
+2. Navigate to the project directory: `cd /your-folder-path`
+3. I wrote this program in Python so install the latest version of Python.
+4. Install dependencies: `npm install`
+
+## Usage
+1. Run the program from a Command prompt: `python EndpointsMonitor.py`
+2. View output.
+3. Stop the program: `Ctrl+C`
+
+
